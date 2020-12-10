@@ -1,0 +1,14 @@
+﻿  UnitTestLab2.cpp
+C:\Users\Владимир\Desktop\lab2\lab2v2\sort.h(33,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир\Desktop\lab2\lab2v2\sort.h(39,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир\Desktop\lab2\lab2v2\sort.h(69,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир\Desktop\lab2\lab2v2\sort.h(83,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир\Desktop\lab2\lab2v2\sort.h(85,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир\Desktop\lab2\lab2v2\sort.h(161,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир\Desktop\lab2\lab2v2\sort.h(208,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир\Desktop\lab2\lab2v2\sort.h(214,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир\Desktop\lab2\lab2v2\sort.h(247,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир\Desktop\lab2\lab2v2\sort.h(261,21): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Владимир\Desktop\lab2\lab2v2\sort.h(275,21): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Владимир\Desktop\lab2\lab2v2\sort.h(288,21): warning C4018: <=: несоответствие типов со знаком и без знака
+  UnitTestLab2.vcxproj -> C:\Users\Владимир\Desktop\lab2\UnitTestLab2\Debug\UnitTestLab2.dll
